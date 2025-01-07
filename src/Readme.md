@@ -5,4 +5,3 @@ Quiver.py Contains function for creating quiver plots, it can assign color to th
 Animate_c. Contains function for animating and giving colour to different groups.
 find_group_index contains function that finds the group of given particle index. It uses index intervalls to determine groups.
 Analysis.py contain functions useful for analysing. Such as rdf.
-
